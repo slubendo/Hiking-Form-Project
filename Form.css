@@ -1,66 +1,66 @@
 body {
-background-image:url("Hiking2.jpg");
-/* background-color: darkgreen; */
-background-repeat: no-repeat;
-background-size: cover;
-}   
-
-#mainDiv {
-    width: 50%;
-    height: 400px;
-    margin: auto;
-    margin-top:11%;
-    background-color: rgb(238, 246, 238);
-    position: relative;
-    /* align-items: right; */
-    border-radius: 2%
-}
-
-#subDiv {
-    width: 33%;
-    height: 100%;
-    background-color: rgba(21, 122, 9, 0.787);
-    opacity: 100%;
-    position:absolute;
-    left: 0px;
-    top: 0px;
-    border-radius: 1%
-
-}
-
-h1 {
-    text-align: center;
-    position: relative;
-    top: 30px
-}
-
-#formDiv1 {
-    position: absolute;
-    left: 40%;
-    height: 100%;
-    right: 35%;
-    text-align:justify;
+    background-image:url("Hiking2.jpg");
+    /* background-color: darkgreen; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    }   
     
-}
-
-#formDiv2 {
-    position: absolute;
-    width: 33%;
-    height: 100%;
-    right: 0px;
-    text-align:justify;
-}
-
-div form {
-    margin-left: 15px;
-    width: 100%;
-}
-
-label {
-    display:block;
-}
-
-input {
-    margin-bottom: 20px;
-    display: inline;
-}
+    #mainDiv {
+        width: 50%;
+        height: 400px;
+        margin: auto;
+        margin-top:11%;
+        background-color: rgb(238, 246, 238);
+        position: relative;
+        /* align-items: right; */
+        border-radius: 2%
+    }
+    
+    #subDiv {
+        width: 33%;
+        height: 100%;
+        background-color: rgba(21, 122, 9, 0.787);
+        opacity: 100%;
+        position:absolute;
+        left: 0px;
+        top: 0px;
+        border-radius: 1%
+    
+    }
+    
+    h1 {
+        text-align: center;
+        position: relative;
+        top: 30px
+    }
+    
+    #formDiv1 {
+        position: absolute;
+        left: 40%;
+        height: 100%;
+        right: 35%;
+        text-align:justify;
+        
+    }
+    
+    #formDiv2 {
+        position: absolute;
+        width: 33%;
+        height: 100%;
+        right: 0px;
+        text-align:justify;
+    }
+    
+    div form {
+        margin-left: 15px;
+        width: 100%;
+    }
+    
+    label {
+        display:block;
+    }
+    
+    input {
+        margin-bottom: 20px;
+        display: inline;
+    }
